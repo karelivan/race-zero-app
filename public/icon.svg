@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="96" fill="#0B0F19"/>
+  <path d="M64 384L256 264L448 384" stroke="#1E293B" stroke-width="10"/>
+  <path d="M128 432L256 264L384 432" stroke="#334155" stroke-width="8"/>
+  <line x1="64" y1="264" x2="448" y2="264" stroke="#F59E0B" stroke-width="6" stroke-opacity="0.6"/>
+  <!-- Antigravity Craft Silhouette -->
+  <polygon points="256,96 368,320 296,304 256,348 216,304 144,320" fill="#F59E0B"/>
+  <polygon points="256,128 332,296 284,284 256,316 228,284 180,296" fill="#F8FAFC"/>
+  <polygon points="256,168 282,256 230,256" fill="#0EA5E9"/>
+  <!-- Thruster Glow -->
+  <circle cx="226" cy="322" r="14" fill="#10B981"/>
+  <circle cx="286" cy="322" r="14" fill="#10B981"/>
+</svg>

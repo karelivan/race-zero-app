@@ -1,0 +1,6 @@
+{
+  "name": "AERO-X 99: Hyper-Velocity Antigravity Racing",
+  "description": "Juego arcade de carreras antigravedad estilo 16-bits Mode 7 en formato PWA ultraligera con motor Canvas 2D y sintetizador de audio en tiempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
